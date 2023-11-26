@@ -8,3 +8,5 @@ You can buy upgrades at the bottom.
 - The "Insurace" upgrade reduces your amount to be paid if you lose.
 - The TicTacToe game has a special power up called 2.5x or Restart. This is a huge steal because no one ever loses :)
   **The TicTacToe game and Football game only have insurance, and not luck**
+
+Created by ThatCarGuy and wea-f
